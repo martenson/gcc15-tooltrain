@@ -21,13 +21,6 @@
     <outputs>
         <data name="outfile" format_source="infile" metadata_source="infile"/>
     </outputs>
-    <tests>
-        <test>
-            <param name="count" value="10"/>
-            <param name="infile" value="1.bed"/>
-            <output name="outfile" file="head_results1.bed"/>
-        </test>
-    </tests>
     <help>
 <![CDATA[
 **What it does**
