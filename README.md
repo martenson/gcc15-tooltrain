@@ -5,9 +5,9 @@
  * tool training slide deck: http://bit.ly/traindeck
 
 ## Files in this repository
-head.xml is an example tool for the first part of training
-2.fastq is example fastq file for testing seqtk 
-.shed.yml is for package_seqtk_1_0_r75 used in Tool Shed publishing part
+ * head.xml is an example tool for the first part of training
+ * 2.fastq is example fastq file for testing seqtk 
+ * .shed.yml is for package_seqtk_1_0_r75 used in Tool Shed publishing part
 
 ## Helpful
  * Planemo docs: http://planemo.readthedocs.org/
