@@ -1,3 +1,8 @@
+This repository served as a coordination hub for a tool training that took place at the 
+http://gcc2015.tsl.ac.uk/training-day/
+Until further notice it is no longer maintained.
+
+
 # Introduction to Writing Galaxy Tools & Publishing in Galaxy Tool Shed
 
 ## Crucial links
